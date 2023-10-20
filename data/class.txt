@@ -1,0 +1,6 @@
+Diagnosis   0
+Treatment   1
+Common Knowledge    2
+healthy lifestyle   3
+Epidemiololgy   4
+Other   5
